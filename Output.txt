@@ -1,0 +1,52 @@
+matrix order is: 9: 6
+
+
+   the matrix elements: 
+1.0 1.0 0.0 0.0 0.0 0.0 **
+0.25 0.75 1.0 0.0 0.0 0.0 **
+0.25 0.25 0.0 0.0 0.0 0.0 **
+0.25 0.0 0.0 0.0 0.0 0.0 **
+0.0 0.0 0.0 0.25 0.0 0.0 **
+0.0 0.0 0.0 0.0 0.25 0.0 **
+0.0 0.0 0.0 1.0 0.0 0.0 **
+0.0 0.0 0.0 0.0 1.0 0.0 **
+0.0 0.25 0.0 0.0 0.75 1.0 **
+
+
+
+Aff: 5.0  G: 1.25     coup:1.0
+
+ID 1 is in this service
+ID 2 is in this service
+ID 7 is in this service
+ID 3 is in this service
+ID 4 is in this service
+ID 5 is in this service
+ 
+
+ Bounded Rows is : 6     Bounded Cols is: 4
+********** Service 1***** ZT: 48.828125  **************
+
+
+
+
+Aff: 1.0  G: 1.0     coup:1.75
+
+
+ID 9 is in this service
+ 
+ Bounded Rows is : 1     Bounded Cols is: 1
+********** Service 2***** ZT: 0.32653061224489793  **************
+
+
+
+Aff: 1.0  G: 1.0     coup:1.0
+
+ID 8 is in this service
+ID 6 is in this service
+
+  Bounded Rows is : 2     Bounded Cols is: 1
+********** Service 3***** ZT: 1.0  **************
+
+
+ **********************  ToTal Z :119.61444444444444 ****************
